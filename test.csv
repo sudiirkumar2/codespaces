@@ -1,0 +1,23 @@
+Student_ID,Age,Gender,Education_Level,Course_Name,Time_Spent_on_Videos,Quiz_Attempts,Quiz_Scores,Forum_Participation,Assignment_Completion_Rate,Engagement_Level,Final_Exam_Score,Learning_Style,Feedback_Score,Dropout_Likelihood
+S09979,16,Female,High School,Cybersecurity,155,1,87,34,61,Medium,77,Kinesthetic,4,No
+S09980,45,Female,Undergraduate,Cybersecurity,483,4,99,2,77,Medium,68,Auditory,3,No
+S09981,36,Female,Postgraduate,Cybersecurity,134,1,68,29,99,Medium,67,Kinesthetic,1,No
+S09982,27,Female,Undergraduate,Web Development,429,1,68,25,42,Medium,65,Visual,5,No
+S09983,30,Female,High School,Data Science,463,2,92,33,51,High,87,Reading/Writing,5,No
+S09984,26,Female,Undergraduate,Web Development,23,4,50,48,48,High,91,Auditory,4,No
+S09985,20,Female,Undergraduate,Machine Learning,196,4,80,8,68,High,88,Kinesthetic,2,No
+S09986,21,Female,Postgraduate,Data Science,398,1,55,0,72,Low,98,Kinesthetic,2,No
+S09987,15,Male,Undergraduate,Python Basics,292,2,80,24,99,High,81,Auditory,5,No
+S09988,47,Female,Undergraduate,Python Basics,218,4,38,9,53,High,87,Auditory,3,No
+S09989,48,Female,Postgraduate,Web Development,403,2,37,12,94,High,98,Auditory,2,Yes
+S09990,32,Male,High School,Web Development,26,3,52,42,46,High,68,Reading/Writing,4,Yes
+S09991,39,Male,Undergraduate,Data Science,373,3,43,20,70,High,79,Auditory,1,Yes
+S09992,34,Female,Postgraduate,Cybersecurity,224,2,79,43,97,Medium,58,Visual,1,No
+S09993,16,Male,High School,Cybersecurity,176,3,40,22,98,Low,87,Reading/Writing,1,No
+S09994,24,Male,High School,Python Basics,183,4,49,25,91,Low,68,Reading/Writing,1,No
+S09995,41,Female,High School,Python Basics,226,1,87,38,61,High,92,Visual,4,Yes
+S09996,26,Female,Undergraduate,Machine Learning,162,2,87,27,73,Medium,68,Kinesthetic,2,No
+S09997,37,Male,Postgraduate,Machine Learning,447,2,39,10,68,Medium,46,Reading/Writing,1,Yes
+S09998,40,Female,Postgraduate,Machine Learning,105,4,50,23,41,High,64,Visual,1,No
+S09999,44,Male,High School,Python Basics,245,2,84,39,85,Medium,38,Visual,2,No
+S10000,39,Female,Undergraduate,Machine Learning,171,2,88,8,69,Medium,97,Visual,2,No
