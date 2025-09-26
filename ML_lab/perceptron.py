@@ -22,7 +22,7 @@ class Perceptron:
                 tot_err += abs(label - prediction)
                 self.weights += update * inputs
                 self.bias += update
-            print(f'Epoch: {_}, Total error: {tot_err}')
+            print(f'Epoch: {_}, Total absolute error: {tot_err}')
             if tot_err==0:
                 break
             
